@@ -1,0 +1,5 @@
+# Ignorar archivos .csv
+*.csv
+
+# Ignorar archivos .json.gz
+*.json.gz
